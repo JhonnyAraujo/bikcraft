@@ -33,7 +33,7 @@ Dentro da pasta `bicicletas/`, há três páginas dedicadas a modelos exclusivos
 
 | Pasta       | Conteúdo                                                                 |
 |-------------|--------------------------------------------------------------------------|
-| `css/`      | Arquivos de estilo para cada página (`style.css`, `seguros.css`, etc.) e o arquivo minificado `cleancss.min.css` gerado com [CleanCSS](https://www.cleancss.com/) para otimização |
+| `css/`      | Arquivos de estilo para cada página (`style.css`, `seguros.css`, etc.) e o arquivo minificado `style.min.css` gerado com [CleanCSS](https://www.cleancss.com/) para otimização |
 | `js/`       | Scripts JavaScript para interações, validações e funcionalidades extras |
 | `img/`      | Imagens do site, incluindo produtos, ícones, backgrounds e ilustrações  |
 
